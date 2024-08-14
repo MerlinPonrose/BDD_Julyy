@@ -13,4 +13,3 @@ And Click email and enter the value "abc.@gmail.com"
 Scenario: Validate check box in Registration form
 When User click Cricket checkbox
 Then User validate checkbox is checked
-And User validate this new step
