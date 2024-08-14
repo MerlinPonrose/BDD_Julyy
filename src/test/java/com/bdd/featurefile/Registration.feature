@@ -1,8 +1,5 @@
 Feature: Registration form
 
-Background:
-Given Launch browser and open the url "https://demo.automationtesting.in/Register.html"
-
 @Smoke @regression
 Scenario: Validate textbox in registration form
 When Click firstname and enter the value "Test First Name"
